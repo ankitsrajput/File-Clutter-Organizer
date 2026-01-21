@@ -30,6 +30,22 @@ A simple Node.js script that automatically organizes files inside a directory by
 
 `node main.js`
 
+# 🤝 Contributing
+
+**Contributions are welcome and appreciated!**
+This project is actively evolving, and we encourage developers to help improve and extend it day by day.
+
+**📌 How You Can Contribute**
+
+You can help by:
+
+* Improving code structure or performance
+* Adding new features (CLI options, logging, config support)
+* Fixing bugs or edge cases
+* Writing tests
+* Enhancing documentation
+* Refactoring to modern Node.js standards
+
 # 📂 Project Structure
 
 ```text
